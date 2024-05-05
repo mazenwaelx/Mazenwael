@@ -7,7 +7,7 @@ Software Engineering student at Cairo University | Software Engineering intern a
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://www.shutterstock.com/image-illustration/sql-code-on-dark-background-260nw-1897996366.jpg)
+![SQL]([https://www.shutterstock.com/image-illustration/sql-code-on-dark-background-260nw-1897996366.jpg](https://media.licdn.com/dms/image/sync/C4D27AQFPRJVDK1-7eg/articleshare-shrink_800/0/1711068158288?e=2147483647&v=beta&t=BY5FNlBAd1miuCBhwyQIrBvl_1nHdqtnOBVcNpHxA7o))
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mazenwaelx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mazenwaelx&theme=dark&hide_border=false)<br/>
